@@ -1,3 +1,20 @@
+<!-- readme-refresh 2026-11 -->
+<div align="center">
+
+# 💌 WhatsApp Message Automation
+
+**Personalised greetings to an Excel contact list**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pywhatkit-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="pywhatkit" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+
+</div>
+
+## ✨ Highlights
+
+- Reads names and numbers from Excel
+- Sends a personalised message to each
+
+<!-- body -->
 Here is a README file for your WhatsApp bulk messaging automation project:
 
 ***
@@ -158,3 +175,7 @@ MIT License — free for personal and educational use.
 ***
 
 This README clearly explains your script’s functionality, setup, and usage. Let me know if you'd like to enhance it with features like message templates or scheduling!
+
+---
+
+<div align="center"><sub>Built by <a href="https://github.com/Mokshitsharma">Mokshit Sharma</a> · <a href="https://mokshitsharma27.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mokshit-sharma-75b5ab305">LinkedIn</a></sub></div>
